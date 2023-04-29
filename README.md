@@ -24,3 +24,5 @@ python Predict.py
 ```
 # Data and Weights
 The data and weights identified during the disease period can be obtained by opening the following Baidu website link:
+link：https://pan.baidu.com/s/1RVh_isdFhRXBEkDyUz1CFg?pwd=okdg 
+Extracted code：okdg 
