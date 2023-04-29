@@ -22,3 +22,4 @@ python eval.py
 ```python
 python Predict.py
 ```
+# The data and weights identified during the disease period can be obtained by opening the following Baidu website link:
